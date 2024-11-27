@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+      "description": "Description"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 200,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_15.jpg",
+      "description": "Description"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 300,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_3.jpg",
+      "description": "Description"
+    },
+    {
+      "name": "New Product",
+      "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/70ea305ed24716682532486c9625a8315cfe1cf6922681.jpg",
+      "price": "10000",
+      "description": "abcd",
+      "id": "XPwPYWc"
+    },
+    {
+      "name": "New Product",
+      "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/70ea305ed24716682532486c9625a8315cfe1cf6922681.jpg",
+      "price": "2000",
+      "description": "abcd",
+      "id": "XaStdQ-"
+    },
+    {
+      "name": "Hello update 2",
+      "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/70ea305ed24716682532486c9625a8315cfe1cf6922681.jpg",
+      "price": "1111",
+      "description": "abcd",
+      "id": "Jtu7duX"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$53cwCMc/FpBgeWFbnZQFP.Vv0LQQHCGigL1C4tKRTNSUMkWZh8mDK",
+      "username": "admin",
+      "id": 1
+    }
+  ]
+}
